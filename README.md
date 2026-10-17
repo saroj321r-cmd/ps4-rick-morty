@@ -68,7 +68,8 @@ Rick and Morty API: https://rickandmortyapi.com/api/character
 
 ## Live Demo
 
-Deployment link will be added here.
+[Open Rick and Morty Explorer](https://ps4-rick-morty.vercel.app/)
+
 ## Run Locally
 
 1. Clone this repository.
